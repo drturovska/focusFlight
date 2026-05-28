@@ -1,0 +1,13 @@
+{
+  "name": "kubg-api",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "...",
+    "axios": "...",
+    "cors": "...",
+    "cheerio": "..."
+  }
+}
